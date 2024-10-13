@@ -1,1 +1,1 @@
-# bad-posture-detector
+# BAD POSTURE DETECTOR
